@@ -16,7 +16,7 @@ export default function MapContact() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="bg-white rounded-xl p-6 md:p-8  border border-gray-100">
             <div className="flex items-center gap-4">
-              <div className="w-12 h-12 rounded-lg overflow-hidden bg-[#E05020] flex items-center justify-center">
+              <div className="w-12 h-12 rounded-lg overflow-hidden bg-white flex items-center justify-center">
                 <Image src="/sunvia-group.png" alt="Sunvia" width={36} height={36} style={{ objectFit: 'contain' }} />
               </div>
               <div>

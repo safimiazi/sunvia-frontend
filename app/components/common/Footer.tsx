@@ -29,7 +29,7 @@ export default function Footer() {
           {/* Brand Column */}
           <div className="space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-lg flex items-center justify-center overflow-hidden" style={{ backgroundColor: "#E05020" }}>
+              <div className="w-10 h-10 rounded-lg flex items-center justify-center overflow-hidden" style={{ backgroundColor: "white" }}>
                 <Image src="/sunvia-group.png" alt="Sunvia Group" width={36} height={36} priority style={{ objectFit: "contain" }} />
               </div>
               <div>

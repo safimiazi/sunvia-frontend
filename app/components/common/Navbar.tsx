@@ -78,7 +78,7 @@ export default function Navbar() {
               <Link
                 href="/"
                 className="w-9 h-9 rounded-lg flex items-center justify-center overflow-hidden"
-                style={{ backgroundColor: "#E05020" }}
+                style={{ backgroundColor: "white" }}
               >
                 <Image
                   src="/sunvia-group.png"
